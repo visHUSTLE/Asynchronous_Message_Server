@@ -1,10 +1,8 @@
-Vishnu Nandyala
-ID : 1001670678
-Net ID : vxn0678
+
 
 CSE 5306 
 
-Lab # 1 Summer – 2019
+Lab # 1 Summer â€“ 2019
 Asynchronous Message Server
 
 
